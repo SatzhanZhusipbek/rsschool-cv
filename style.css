@@ -1,0 +1,21 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.profile-photo {
+  max-width: 150px;
+  height: auto; 
+  border-radius: 50%;
+  display: block;
+  margin: 1rem auto;
+}
