@@ -1,1 +1,1 @@
-# rsschool-cv-2
+https://satzhanzhusipbek.github.io/rsschool-cv/cv
