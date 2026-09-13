@@ -1,2 +1,2 @@
-https://satzhanzhusipbek.github.io/rsschool-cv/
-https://satzhanzhusipbek.github.io/rsschool-cv/cv
+https://satzhanzhusipbek.github.io/rsschool-cv/cv <br>
+https://satzhanzhusipbek.github.io/rsschool-cv/ 
